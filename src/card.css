@@ -1,0 +1,32 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    margin:auto;
+    margin-top:10%;
+    width:800px;
+    border-radius: 20px;
+  }
+
+  #btn{
+    margin-left:10px;
+  }
+
+  #user{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    background-color:bisque;
+    border-radius: 50%;
+    text-shadow: 5%;
+    width:auto;
+  }
+
+  #add{
+    background-color:rgb(127, 193, 91);
+    margin:10px;
+    border-radius: 10px;
+    width:auto;
+  }
